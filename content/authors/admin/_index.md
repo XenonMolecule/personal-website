@@ -46,5 +46,5 @@ title: Michael Ryan
 first_name: Michael
 email: ""
 ---
-Michael Ryan is an undergraduate researcher in natural language processing in Dr. Wei Xu's NLP X Lab. His research interests include multilingual NLP and memory/knowledge modeling for large language models. His focus is on multilingual text simplification and multilingual readability.  He is Head TA for CS3600: Introduction to Artificial Intellgence taught by Dr. Mark Riedl.
+Michael Ryan is an undergraduate researcher of natural language processing in Dr. Wei Xu's NLP X Lab. His research interests include multilingual NLP and memory/knowledge modeling for large language models. His focus is on multilingual text simplification and multilingual readability.  He is Head TA for CS3600: Introduction to Artificial Intellgence taught by Dr. Mark Riedl.
 {style="text-align: justify;"}

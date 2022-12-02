@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
-date: 2022-10-24
+title: Michael Ryan
+date: 2022-12-1
 type: landing
 
 sections:
@@ -12,25 +12,9 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
   - block: experience
     content:
-      title: Experience
+      title: Work Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -40,27 +24,45 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+        - title: Software Engineer Intern
+          company: Microsoft Corporation
+          company_url: 'https://www.microsoft.com/en-us/'
+          company_logo: msft
+          location: Seattle, WA
+          date_start: '2022-05-16'
+          date_end: '2022-08-09'
           description: |2-
               Responsibilities include:
 
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Software Engineer Intern
+          company: Microsoft Corporation
+          company_url: 'https://www.microsoft.com/en-us/'
+          company_logo: msft
+          location: Virtual
+          date_start: '2021-05-16'
+          date_end: '2021-08-09'
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Software Engineer Intern
+          company: Uber Inc.
+          company_url: 'https://www.uber.com'
+          company_logo: uber
+          location: Virtual
+          date_start: '2020-05-16'
+          date_end: '2020-08-09'
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
     design:
       columns: '2'
   - block: accomplishments
@@ -199,46 +201,26 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
   - block: contact
     id: contact
     content:
       title: Contact
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      text: 
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: mryan47@gatech.edu
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
+        street: 756 W Peachtree St NW
+        city: Atlanta
+        region: GA
+        postcode: '30308'
         country: United States
         country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+          link: 'https://twitter.com/michaelryan207'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
