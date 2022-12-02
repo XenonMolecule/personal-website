@@ -40,7 +40,7 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
-role: Undergraduate Natural Language Processing Researcher
+role: Undergraduate NLP Researcher
 highlight_name: true
 title: Michael Ryan
 first_name: Alice
