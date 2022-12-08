@@ -143,15 +143,15 @@ sections:
       columns: '2'
       view: card
   - block: collection
-    id: talks
+    id: teaching
     content:
-      title: Recent & Upcoming Talks
+      title: Teaching
       filters:
         folders:
-          - event
+          - teaching
     design:
       columns: '2'
-      view: compact
+      view: card
   - block: contact
     id: contact
     content:
