@@ -62,7 +62,7 @@ sections:
         - title: Software Engineer Intern
           company: Microsoft Corporation
           company_url: 'https://www.microsoft.com/en-us/'
-          company_logo: msft
+          company_logo: /assets/icons/brands/msft.svg
           location: Virtual
           date_start: '2021-05-16'
           date_end: '2021-08-09'
