@@ -82,7 +82,7 @@ sections:
           date_end: ''
           date_start: '2022-12-19'
           description: 'Awarded for completing Honors Level Coursework and Approved Research as an undergraduate at Georgia Tech'
-          organization: 'Georgia Tech Honors Program'
+          organization: 'edX'
           organization_url: https://honorsprogram.gatech.edu
           title: Honors Program Distinction in Research
           url: ''
