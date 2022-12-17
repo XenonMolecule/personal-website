@@ -49,7 +49,7 @@ sections:
         - title: Software Engineer Intern
           company: Microsoft Corporation
           company_url: 'https://www.microsoft.com/en-us/'
-          # company_logo: msft
+          company_logo: msft
           location: Seattle, WA
           date_start: '2022-05-16'
           date_end: '2022-08-09'
@@ -62,7 +62,7 @@ sections:
         - title: Software Engineer Intern
           company: Microsoft Corporation
           company_url: 'https://www.microsoft.com/en-us/'
-          # company_logo: msft
+          company_logo: msft
           location: Virtual
           date_start: '2021-05-16'
           date_end: '2021-08-09'
@@ -75,7 +75,7 @@ sections:
         - title: Software Engineer Intern
           company: Uber Inc.
           company_url: 'https://www.uber.com'
-          # company_logo: uber
+          company_logo: uber
           location: Virtual
           date_start: '2020-05-16'
           date_end: '2020-08-09'
