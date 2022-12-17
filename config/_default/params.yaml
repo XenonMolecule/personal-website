@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  # theme_day: minimal
   theme_night: minimal
   font: minimal
   font_size: L
@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'Michael Ryan'
+    description: 'Michael Ryan is an undergraduate researcher at the Georgia Institute of Technology'
+    twitter: 'https://twitter.com/michaelryan207'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
