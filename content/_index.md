@@ -54,11 +54,7 @@ sections:
           date_start: '2022-05-16'
           date_end: '2022-08-09'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              * Designed and programmed static analysis tool in C++ for identifying security vulnerabilities throughout Windows OS.
         - title: Software Engineer Intern
           company: Microsoft Corporation
           company_url: 'https://www.microsoft.com/en-us/'
@@ -67,11 +63,9 @@ sections:
           date_start: '2021-05-16'
           date_end: '2021-08-09'
           description: |2-
-              Responsibilities include:
+              * Refactored existing codebase from .NET Framework to .NET Core.
+              * Ported server-specific architecture to serverless functional units using Azure Durable Functions.
 
-              * Analysing
-              * Modelling
-              * Deploying
         - title: Software Engineer Intern
           company: Uber Inc.
           company_url: 'https://www.uber.com'
@@ -80,11 +74,7 @@ sections:
           date_start: '2020-05-16'
           date_end: '2020-08-09'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              * Implemented end-to-end testing in GoLang for bike, scooter, and moped rentals by building a simulated 3rd party CRUD API.
     design:
       columns: '2'
   - block: portfolio
