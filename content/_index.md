@@ -125,6 +125,14 @@ sections:
           organization_url: https://honorsprogram.gatech.edu
           title: Honors Program Distinction in Research
           url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2022-03-01'
+          description: 'Awarded for contributions to teaching excellence at Georgia Tech School of Interactive Computing'
+          organization: 'Georgia Tech Center for Teaching and Learning'
+          organization_url: https://ctl.gatech.edu/home
+          title: Outstanding Undergraduate TA for Interactive Computing
+          url: ''
     design:
       columns: '2'
   - block: contact
