@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  # theme_day: minimal
-  theme_night: minimal
+  theme_day: minimal
+  # theme_night: minimal
   font: minimal
   font_size: L
 
@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: 'Michael Ryan'
-    description: 'Michael Ryan is an undergraduate researcher at the Georgia Institute of Technology'
+    description: 'Michael Ryan is a masters student at Stanford University and former researcher at the Georgia Insititute of Technology.  Michael studies Artificial Intelligence and Natural Language Processing.'
     twitter: 'https://twitter.com/michaelryan207'
   analytics:
     google_analytics: ''
@@ -35,7 +35,7 @@ header:
     align: l
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: true
     highlight_active_link: true
 
@@ -68,7 +68,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/XenonMolecule/personal-website'
     content_dir: content
     branch: main
   avatar:

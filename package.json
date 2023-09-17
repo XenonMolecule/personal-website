@@ -1,8 +1,6 @@
 {
-  "devDependencies": {
-    "hugo-extended": "^0.107.0"
-  },
   "dependencies": {
+    "hugo-extended": "^0.118.2",
     "netlify-plugin-hugo-cache-resources": "^0.2.1"
   }
 }
