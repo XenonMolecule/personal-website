@@ -34,8 +34,8 @@ publishDate: '2018-10-05T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *2018 IEEE MIT Undergraduate Research Technology Conference (URTC)*
-publication_short: In *IEEE MIT URTC*
+publication: 2018 IEEE MIT Undergraduate Research Technology Conference (URTC)
+publication_short: IEEE MIT URTC
 
 abstract: Litter can remain undetected and uncollected for extended periods of time, leading to detrimental consequences on the environment. Solutions to mitigating these effects focus on severe legal action directed towards offenders or litter collection events, all of which are not automated. Therefore, to reduce the amount of manual labor required for current solutions, this project aims to implement an automated micro-unmanned aerial vehicle (UAV) capable of real time litter detection from UAV surveillance footage. Performances of five different algorithms (two classifiers and three detectors) were compared after training them on various public images of litter on the Google Cloud Platform to determine the strongest models to utilize in the ensemble method. Out of the two ensemble models tested, one being a custom-built ensemble and the other being a bootstrap aggregating (bagging) ensemble, performance of the bagging ensemble demonstrates a significant improvement in performance over any individual model.
 
@@ -45,14 +45,14 @@ summary: Litter can remain undetected and uncollected for extended periods of ti
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://soe.rutgers.edu/sites/default/files/imce/pdfs/gset-2018/Cloud%20Computed%20Machine%20Learning%20Based%20Real-Time%20Litter%20Detection%20using%20Micro-UAV%20Surveillance.pdf'
+url_pdf: 'publication/gset-drones/litter-detection.pdf'
 url_code: 'https://github.com/XenonMolecule/CVML-GSET-Project'
 url_dataset: ''
 url_poster: ''

@@ -30,7 +30,7 @@ summary: I propose a new stacked generative adversarial network model for genera
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

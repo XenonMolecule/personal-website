@@ -15,7 +15,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Research
+      title: Selected Research
       filters:
         folders:
           - publication
@@ -23,6 +23,17 @@ sections:
     design:
       columns: '2'
       view: card
+  - block: collection
+    id: research
+    content:
+      title: Research
+      filters:
+        folders:
+          - publication
+        featured_only: false
+    design:
+      columns: '2'
+      view: list
   - block: collection
     id: teaching
     content:
