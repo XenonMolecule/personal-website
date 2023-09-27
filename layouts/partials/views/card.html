@@ -61,12 +61,16 @@
     </a>
   {{end}}
 
-  <div class="section-subheading article-title mb-1 mt-3">
+  <div style="margin-bottom: 0px!important;" class="section-subheading article-title mb-1 mt-3">
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>&nbsp;
-    {{ if $item.Params.award }}
-      <span class="badge-bs text-bg-danger-bs">{{ $item.Params.award }}</span>
-    {{ end }}
   </div>
+
+  {{ if $item.Params.award }}
+  <div>
+      <span class="badge-bs text-bg-danger-bs" style="vertical-align: text-top;">{{ $item.Params.award }}</span>
+      <br/>
+  </div>
+  {{ end }}
 
   {{ with $summary }}
   <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
