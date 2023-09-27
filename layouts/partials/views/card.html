@@ -62,7 +62,10 @@
   {{end}}
 
   <div class="section-subheading article-title mb-1 mt-3">
-    <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
+    <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>&nbsp;
+    {{ if $item.Params.award }}
+      <span class="badge-bs text-bg-danger-bs">{{ $item.Params.award }}</span>
+    {{ end }}
   </div>
 
   {{ with $summary }}

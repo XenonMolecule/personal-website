@@ -47,7 +47,7 @@ url_poster: 'publication/multisim/MultiSimPoster.pdf'
 url_project: ''
 url_slides: 'publication/multisim/MultiSim_slides.pdf'
 url_source: ''
-url_video: 'https://www.youtube.com/watch?v=RWIr5zlDa6I'
+url_video: 'https://youtu.be/J81KIBXxkSY'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -70,4 +70,6 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
+award: 'Best Paper Award Honorable Mention'
 ---

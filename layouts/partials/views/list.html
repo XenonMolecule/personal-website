@@ -51,7 +51,12 @@
   {{ if and $show_venue $item.Params.publication }}
   <div class="article-metadata">
     {{ with $item.Params.publication }}
-    <span>{{ . }}</span>
+    <span>{{ . }}&nbsp;</span>
+    {{ end }}
+    {{ if $item.Params.award }}
+    {{ with $item.Params.award }}
+    <span class="badge-bs text-bg-danger-bs">{{ . }}</span>
+    {{ end }}
     {{ end }}
   </div>
   {{ end }}
