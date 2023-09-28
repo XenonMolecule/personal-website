@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Michael Joseph Ryan
+title: Michael J. Ryan
 
 # Full name (for SEO)
 first_name: Michael
@@ -22,7 +22,7 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include multilingual NLP and memory/knowledge
+bio: My research interests include multilingual NLP and memory/knowledge modeling
 
 # Interests to show in About widget
 interests:

@@ -153,7 +153,7 @@ sections:
       subtitle:
       text: 
       # Contact (add or remove contact options as necessary)
-      email: mryan47@gatech.edu
+      email: michaeljryan@stanford.edu
       address:
         street: 756 W Peachtree St NW
         city: Atlanta
