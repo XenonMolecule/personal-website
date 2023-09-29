@@ -80,6 +80,6 @@ highlight_name: true
 
 Hi, I'm Michael Ryan and I'm a Master's student studying Artificial Intelligence at Stanford.  This Fall I'm a Course Assistant for [CS221: Artificial Intelligence Principles and Techniques](https://stanford-cs221.github.io/autumn2023/).
 
-My research interests include multilingual NLP and retreival augmented generation for large language models.  My current focus is on multilingual text simplification and multilingual readability as well as multicultural fairness.  Previously I was an undergraduate researcher in Dr. Wei Xu's [NLP X Lab](https://cocoxu.github.io/#advise) at Georgia Tech.
+My research interests include multilingual NLP and fairness in large language models.  I am also excited about retrieval augmentation for more trustworthy text generation.  My most recent work is on multilingual text simplification and multilingual readability as well as multicultural fairness. Previously I was an undergraduate researcher in Dr. Wei Xu's [NLP X Lab](https://cocoxu.github.io/#advise) at Georgia Tech.
 
 Have a quick look at my [resume](/uploads/resume.pdf)!
