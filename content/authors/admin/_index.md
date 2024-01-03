@@ -26,10 +26,11 @@ bio: My research interests include multilingual NLP and memory/knowledge modelin
 
 # Interests to show in About widget
 interests:
-  - Multilingual Text Generation
+  - LLM Personalization
+  - Prompt Optimization
   - Simplification and Readability
-  - Retrieval Augmented Generation
-  - LLM Fairness
+  - Fairness in NLP
+
 
 # Education to show in About widget
 education:
@@ -69,7 +70,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -78,8 +79,8 @@ email: ''
 highlight_name: true
 ---
 
-Hi, I'm Michael Ryan and I'm a Master's student studying Artificial Intelligence at Stanford.  This Fall I'm a Course Assistant for [CS221: Artificial Intelligence Principles and Techniques](https://stanford-cs221.github.io/autumn2023/).
+Hi, I'm Michael Ryan and I'm a Master's student studying Artificial Intelligence at Stanford.  I'm fortunate to be doing NLP research as a member of Dr. Diyi Yang's [SALT Lab](https://cs.stanford.edu/~diyiy/group.html)!  This Winter I am a Course Assistant for [CS124: From Languages to Information](https://web.stanford.edu/class/cs124/) with Dr. Dan Jurafsky.
 
-My research interests include multilingual NLP and fairness in large language models.  I am also excited about retrieval augmentation for more trustworthy text generation.  My most recent work is on multilingual text simplification and multilingual readability as well as multicultural fairness. Previously I was an undergraduate researcher in Dr. Wei Xu's [NLP X Lab](https://cocoxu.github.io/#advise) at Georgia Tech.
+My research interests include LLM personalization for various cultures, languages, and individuals.  Right now I am looking at some of the effects of preference tuning on LLMs.  I am also exploring prompt optimization strategies via [DSPy](https://github.com/stanfordnlp/dspy/tree/main). Previously I was an undergraduate researcher in Dr. Wei Xu's [NLP X Lab](https://cocoxu.github.io/#advise) at Georgia Tech.
 
-Have a quick look at my [resume](/uploads/resume.pdf)!
+Have a look at my [CV](/uploads/cv.pdf), or if you're in a hurry, check out my [resume](/uploads/resume.pdf)!
