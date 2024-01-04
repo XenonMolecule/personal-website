@@ -1,5 +1,5 @@
 ---
-title: CS3600 Introduction to AI
+title: CS3600 - Introduction to AI
 
 event: Introduction to AI
 event_url: https://gt-student-wiki.org/mediawiki/index.php/CS_3600
@@ -46,6 +46,8 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects:
   - []
+
+hide_image: 'true'
 ---
 
 As Head TA for CS3600 I was responsible for organizing the grading and office hours of 26 TAs to make sure that the class ran smoothly for 1,633 students (across 4 semesters).  I had the opportunity to teach about search, reinforcement learning, bayesian inference, and machine learning.
