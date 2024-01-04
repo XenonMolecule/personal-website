@@ -43,7 +43,7 @@ sections:
           - teaching
     design:
       columns: '2'
-      view: card
+      view: compact
   - block: experience
     id: experience
     content:
@@ -60,7 +60,7 @@ sections:
         - title: Software Engineer Intern
           company: Microsoft Corporation
           company_url: 'https://www.microsoft.com/en-us/'
-          # company_logo: msft
+          company_logo: msft.svg
           location: Seattle, WA
           date_start: '2022-05-16'
           date_end: '2022-08-09'
@@ -69,7 +69,7 @@ sections:
         - title: Software Engineer Intern
           company: Microsoft Corporation
           company_url: 'https://www.microsoft.com/en-us/'
-          # company_logo: msft
+          company_logo: msft.svg
           location: Virtual
           date_start: '2021-05-16'
           date_end: '2021-08-09'
@@ -80,7 +80,7 @@ sections:
         - title: Software Engineer Intern
           company: Uber Inc.
           company_url: 'https://www.uber.com'
-          # company_logo: uber
+          company_logo: uber.svg
           location: Virtual
           date_start: '2020-05-16'
           date_end: '2020-08-09'
@@ -154,13 +154,13 @@ sections:
       text: 
       # Contact (add or remove contact options as necessary)
       email: michaeljryan@stanford.edu
-      address:
-        street: 756 W Peachtree St NW
-        city: Atlanta
-        region: GA
-        postcode: '30308'
-        country: United States
-        country_code: US
+      # address:
+      #   street: 756 W Peachtree St NW
+      #   city: Atlanta
+      #   region: GA
+      #   postcode: '30308'
+      #   country: United States
+      #   country_code: US
       contact_links:
         - icon: twitter
           icon_pack: fab
