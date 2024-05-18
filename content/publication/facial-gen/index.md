@@ -38,7 +38,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: '/publication/facial-gen/Facial_Generation_Research.pdf'
-url_code: 'https://github.com/XenonMolecule/facial-gen-research'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''

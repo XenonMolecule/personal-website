@@ -79,7 +79,7 @@ email: ''
 highlight_name: true
 ---
 
-Hi, I'm Michael Ryan and I'm a Master's student studying Artificial Intelligence at Stanford University.  I'm fortunate to be doing NLP research as a member of Dr. Diyi Yang's [SALT Lab](https://cs.stanford.edu/~diyiy/group.html)!  This Winter I am a Course Assistant for [CS124: From Languages to Information](https://web.stanford.edu/class/cs124/) with Dr. Dan Jurafsky.
+Hi, I'm Michael Ryan and I'm a Master's student studying Artificial Intelligence at Stanford University.  I'm fortunate to be doing NLP research as a member of Dr. Diyi Yang's [SALT Lab](https://cs.stanford.edu/~diyiy/group.html)!  This Spring I am the Head Course Assistant for [CS221: Artificial Intelligence: Principles and Techniques](https://stanford-cs221.github.io/spring2024/) with Dr. Nima Anari, Dr. Moses Charikar, and Dr. Sanmi Koyejo.
 
 My research interests include LLM personalization for various cultures, languages, and individuals.  Right now I am looking at some of the effects of preference tuning on LLMs.  I am also exploring prompt optimization strategies via [DSPy](https://github.com/stanfordnlp/dspy/tree/main). Previously I was an undergraduate researcher in Dr. Wei Xu's [NLP X Lab](https://cocoxu.github.io/#advise) at Georgia Tech.
 

@@ -1,5 +1,5 @@
 ---
-title: CS3600 - Introduction to AI
+title: CS3600 - Introduction to AI (Head TA)
 
 event: Introduction to AI
 event_url: https://gt-student-wiki.org/mediawiki/index.php/CS_3600

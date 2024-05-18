@@ -23,7 +23,7 @@ tags: []
 featured: false
 
 links:
-url_code: ''
+url_code: 'https://github.com/cs124/pa7-chatbot/tree/main'
 url_pdf: ''
 url_slides: ''
 url_video: ''
