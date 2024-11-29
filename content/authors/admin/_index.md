@@ -79,8 +79,8 @@ email: ''
 highlight_name: true
 ---
 
-Hi, I'm Michael Ryan and I'm a Master's student studying Artificial Intelligence at Stanford University.  I'm fortunate to be doing NLP research as a member of Dr. Diyi Yang's [SALT Lab](https://cs.stanford.edu/~diyiy/group.html)!  This Spring I am the Head Course Assistant for [CS221: Artificial Intelligence: Principles and Techniques](https://stanford-cs221.github.io/spring2024/) with Dr. Nima Anari, Dr. Moses Charikar, and Dr. Sanmi Koyejo.
+Hi, I'm Michael Ryan and I'm a Master's student studying Artificial Intelligence at Stanford University.  I'm fortunate to be doing NLP research as a member of Dr. Diyi Yang's [SALT Lab](https://cs.stanford.edu/~diyiy/group.html)!  I'm also a core contributor to [StanfordNLP/DSPy](https://dspy.ai) -- the library for programming not prompting LLMs. I'm on the optimizer team for DSPy and I am the co-creator of the DSPy [MIPRO optimizer](https://dspy.ai/deep-dive/optimizers/miprov2).
 
-My research interests include LLM personalization for various cultures, languages, and individuals.  Right now I am looking at some of the effects of preference tuning on LLMs.  I am also exploring prompt optimization strategies via [DSPy](https://github.com/stanfordnlp/dspy/tree/main). Previously I was an undergraduate researcher in Dr. Wei Xu's [NLP X Lab](https://cocoxu.github.io/#advise) at Georgia Tech.
+My research interest is Human-Centered NLP through two directions: LLM personalization for various cultures, languages, and individuals [[1]](https://aclanthology.org/2024.acl-long.853.pdf) [[2]](https://aclanthology.org/2024.acl-long.862.pdf). And leveraging humans for system design and feedback to make better AI systems. [[3]](https://aclanthology.org/2024.emnlp-main.525/) Previously I was an undergraduate researcher in Dr. Wei Xu's [NLP X Lab](https://cocoxu.github.io/#advise) at Georgia Tech and a research intern at [Snowflake](https://www.snowflake.com/en/).
 
 Have a look at my [CV](/uploads/cv.pdf), or if you're in a hurry, check out my [resume](/uploads/resume.pdf)!
