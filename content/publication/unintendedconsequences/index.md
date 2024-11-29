@@ -33,7 +33,7 @@ summary: We explore how alignment impacts performance along three axes of global
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:

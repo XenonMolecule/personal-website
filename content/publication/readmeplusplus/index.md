@@ -7,6 +7,7 @@ title: 'Towards Massively Multi-domain Multilingual Readability Assessment'
 authors:
   - Tarek Naous
   - admin 
+  - Anton Lavrouk
   - Mohit Chandra
   - Wei Xu
 
@@ -20,16 +21,16 @@ publishDate: '2018-10-05T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: ArXiv Preprint
-publication_short: ArXiv
+publication: 2024 Conference on Empirical Methods in Natural Language Processing (Main Conference)
+publication_short: EMNLP 2024
 
-abstract: We present ReadMe++, a massively multi-domain multilingual dataset for automatic readability assessment. Prior work on readability assessment has been mostly restricted to the English language and one or two text domains. Additionally, the readability levels of sentences used in many previous datasets are assumed on the document-level other than sentence-level, which raises doubt about the quality of previous evaluations. We address those gaps in the literature by providing an annotated dataset of 6,330 sentences in Arabic, English, and Hindi collected from 64 different domains of text. Unlike previous datasets, ReadMe++ offers more domain and language diversity and is manually annotated at a sentence level using the Common European Framework of Reference for Languages (CEFR) and through a Rank-and-Rate annotation framework that reduces subjectivity in annotation. Our experiments demonstrate that models fine-tuned using ReadMe++ achieve strong cross-lingual transfer capabilities and generalization to unseen domains. ReadMe++ will be made publicly available to the research community.
+abstract: We present ReadMe++, a massively multi-domain multilingual dataset for automatic readability assessment. Prior work on readability assessment has been mostly restricted to the English language and one or two text domains. Additionally, the readability levels of sentences used in many previous datasets are assumed on the document-level other than sentence-level, which raises doubt about the quality of previous evaluations. We address those gaps in the literature by providing an annotated dataset of 9,757 sentences in Arabic, English, Hindi, French, and Russian collected from 112 different data sources. Unlike previous datasets, ReadMe++ offers more domain and language diversity and is manually annotated at a sentence level using the Common European Framework of Reference for Languages (CEFR) and through a Rank-and-Rate annotation framework that reduces subjectivity in annotation. Our experiments demonstrate that models fine-tuned using ReadMe++ achieve strong cross-lingual transfer capabilities and generalization to unseen domains. ReadMe++ will be made publicly available to the research community.
 
 # Summary. An optional shortened abstract.
-summary: We present ReadMe++, a massively multi-domain multilingual dataset for automatic readability assessment. Prior work on readability assessment has been mostly restricted to the English language and one or two text domains. Additionally, the readability levels of sentences used in many previous datasets are assumed on the document-level other than sentence-level, which raises doubt about the quality of previous evaluations. We address those gaps in the literature by providing an annotated dataset of 6,330 sentences in Arabic, English, and Hindi collected from 64 different domains of text.
+summary: We present ReadMe++, a massively multi-domain multilingual dataset for automatic readability assessment. Prior work on readability assessment has been mostly restricted to the English language and one or two text domains. Additionally, the readability levels of sentences used in many previous datasets are assumed on the document-level other than sentence-level, which raises doubt about the quality of previous evaluations. We address those gaps in the literature by providing an annotated dataset of 9,757 sentences in Arabic, English, Hindi, French, and Russian collected from 112 different sources.
 
 tags: []
 
@@ -41,9 +42,9 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2305.14463.pdf'
+url_pdf: 'https://aclanthology.org/2024.emnlp-main.682.pdf'
 url_code: ''
-url_dataset: ''
+url_dataset: 'https://github.com/tareknaous/readme'
 url_poster: ''
 url_project: ''
 url_slides: ''
