@@ -1,0 +1,3 @@
+# Command
+
+> hugo server -D

@@ -22,14 +22,14 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include multilingual NLP and memory/knowledge modeling
+bio: My research interests include human-centered NLP and Language Model Programming with DSPy
 
 # Interests to show in About widget
 interests:
   - LLM Personalization
-  - Prompt Optimization
-  - Simplification and Readability
-  - Fairness in NLP
+  - Fairness/bias in NLP
+  - LM Program Optimization
+  - Compound LM Systems
 
 
 # Education to show in About widget
