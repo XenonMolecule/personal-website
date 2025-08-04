@@ -33,7 +33,7 @@ summary: We release the MultiSim benchmark, a collection of 27 resources in 12 d
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

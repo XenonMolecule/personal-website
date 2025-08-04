@@ -6,10 +6,10 @@ title: 'Distilling an End-to-End Voice Assistant Without Instruction Training Da
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - William Held
-  - Ella Li
-  - admin 
-  - Weiyan Shi
   - Yanzhe Zhang
+  - Ella Li
+  - Weiyan Shi
+  - admin 
   - Diyi Yang
 
 date: '2024-10-03T00:00:00Z'
@@ -43,7 +43,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2410.02678'
+url_pdf: 'https://aclanthology.org/2025.acl-long.388.pdf'
 url_code: 'https://github.com/Helw150/levanter/blob/will/distill/src/levanter/models/via.py'
 url_dataset: ''
 url_poster: ''

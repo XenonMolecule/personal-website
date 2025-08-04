@@ -1,9 +1,22 @@
-@misc{held2024distillingendtoendvoiceassistant,
-      title={Distilling an End-to-End Voice Assistant Without Instruction Training Data}, 
-      author={William Held and Ella Li and Michael Ryan and Weiyan Shi and Yanzhe Zhang and Diyi Yang},
-      year={2024},
-      eprint={2410.02678},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2410.02678}, 
+@inproceedings{held-etal-2025-distilling,
+    title = "Distilling an End-to-End Voice Assistant Without Instruction Training Data",
+    author = "Held, William  and
+      Zhang, Yanzhe  and
+      Li, Minzhi  and
+      Shi, Weiyan  and
+      Ryan, Michael J  and
+      Yang, Diyi",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-long.388/",
+    pages = "7876--7891",
+    ISBN = "979-8-89176-251-0",
+    abstract = "Voice assistants, such as Siri and Google Assistant, typically model audio and text separately, resulting in lost speech information and increased complexity. Recent efforts to address this with end-to-end Speech Large Language Models (speech-in, text-out) trained with supervised finetuning (SFT) have led to models ``forgetting'' capabilities from text-only LLMs. Our work proposes an alternative paradigm for training Speech LLMs without instruction data, using the response of a text-only LLM to transcripts as self-supervision. Importantly, this process can be performed without annotated responses. We show that our Distilled Voice Assistant (DiVA) generalizes to Spoken Question Answering, Classification, and Translation. Furthermore, DiVA better matches user preferences, achieving a 72{\%} win rate compared with state-of-the-art models like Qwen 2 Audio, despite using $>$100x less training compute."
 }

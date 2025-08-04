@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Masters student in NLP
+role: PhD student in NLP
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -27,14 +27,17 @@ bio: My research interests include human-centered NLP and Language Model Program
 # Interests to show in About widget
 interests:
   - LLM Personalization
-  - Fairness/bias in NLP
-  - LM Program Optimization
+  - Human-Centered NLP
   - Compound LM Systems
+  - LM System Optimization
 
 
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Computer Science
+      institution: Stanford University
+      year: 202X
     - course: MS in Computer Science
       institution: Stanford University
       year: 2025
@@ -79,8 +82,8 @@ email: ''
 highlight_name: true
 ---
 
-Hi, I'm Michael Ryan and I'm a Master's student studying Artificial Intelligence at Stanford University.  I'm fortunate to be doing NLP research as a member of Dr. Diyi Yang's [SALT Lab](https://cs.stanford.edu/~diyiy/group.html)!  I'm also a core contributor to [StanfordNLP/DSPy](https://dspy.ai) -- the library for programming not prompting LLMs. I'm on the optimizer team for DSPy and I am the co-creator of the DSPy [MIPRO optimizer](https://dspy.ai/deep-dive/optimizers/miprov2).
+Hi, I'm Michael Ryan and I'm an Incoming PhD student studying Artificial Intelligence at Stanford University.  I'm fortunate to be doing NLP research as a member of Dr. Diyi Yang's [SALT Lab](https://cs.stanford.edu/~diyiy/group.html)!  I'm also a core contributor to [StanfordNLP/DSPy](https://dspy.ai) -- the library for programming not prompting LLMs. I'm on the optimizer team for DSPy and I am the co-creator of the DSPy [MIPROv2 optimizer](https://dspy.ai/deep-dive/optimizers/miprov2).
 
-My research interest is Human-Centered NLP through two directions: LLM personalization for various cultures, languages, and individuals [[1]](https://aclanthology.org/2024.acl-long.853.pdf) [[2]](https://aclanthology.org/2024.acl-long.862.pdf). And leveraging humans for system design and feedback to make better AI systems. [[3]](https://aclanthology.org/2024.emnlp-main.525/) Previously I was an undergraduate researcher in Dr. Wei Xu's [NLP X Lab](https://cocoxu.github.io/#advise) at Georgia Tech and a research intern at [Snowflake](https://www.snowflake.com/en/).
+My research interest is Human-Centered NLP through two directions: LLM personalization for various cultures, languages, and individuals [[1]](https://aclanthology.org/2024.acl-long.853.pdf) [[2]](https://aclanthology.org/2024.acl-long.862.pdf) [[3]](https://aclanthology.org/2025.acl-long.397.pdf). And leveraging humans for system design and feedback to make better AI systems. [[4]](https://aclanthology.org/2024.emnlp-main.525/) Previously I was an undergraduate researcher in Dr. Wei Xu's [NLP X Lab](https://cocoxu.github.io/#advise) at Georgia Tech and a research intern at [Snowflake](https://www.snowflake.com/en/).
 
 Have a look at my [CV](/uploads/cv.pdf), or if you're in a hurry, check out my [resume](/uploads/resume.pdf)!
