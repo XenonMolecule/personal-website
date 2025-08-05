@@ -25,8 +25,8 @@ publishDate: '2018-10-05T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Arxiv Preprint (Under Review)
-publication_short: Arxiv
+publication: 63rd Annual Meeting of the Association for Computational Linguistics (Main Conference)
+publication_short: ACL 2025
 
 abstract: Voice assistants, such as Siri and Google Assistant, typically model audio and text separately, resulting in lost speech information and increased complexity. Recent efforts to address this with end-to-end Speech Large Language Models (LLMs) trained with supervised finetuning (SFT) have led to models "forgetting" capabilities from text-only LLMs. Our work proposes an alternative paradigm for training Speech LLMs without instruction data, using the response of a text-only LLM to transcripts as self-supervision. Importantly, this process can be performed without annotated responses. We show that our Distilled Voice Assistant (DiVA) generalizes to Spoken Question Answering, Classification, and Translation. Furthermore, we show that DiVA better meets user preferences, achieving a 72% win rate compared with state-of-the-art models like Qwen 2 Audio, despite using >100x less training compute.
 
